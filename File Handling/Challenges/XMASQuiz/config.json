@@ -1,0 +1,9 @@
+{
+  "questions": {
+    "Is Python good": "no",
+    "Is JavaScript good": "yes"
+  },
+  "disallowedUsernames": [
+
+  ]
+}

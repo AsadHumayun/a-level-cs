@@ -1,0 +1,6 @@
+In this challenge we are going to write a Python program that automatically generates six random numbers 
+(from 1 to 50) and display them on the screen, sorted in ascending order.
+The program will need to make sure that each number is unique; the same number cannot come twice in the selection of six selected numbers.
+Extension:
+Ask the user for 6 numbers between 1 and 50. the program will then count and display the number of matches by comparing the
+six randomly generated lottery numbers.

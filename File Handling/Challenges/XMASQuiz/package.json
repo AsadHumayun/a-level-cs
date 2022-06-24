@@ -1,0 +1,22 @@
+{
+  "name": "xmasquiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "maintainers": [
+    "almostStatic"
+  ],
+  "keywords": [
+    "XMasQuiz"
+  ],
+  "author": "almostStatic",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "delay": "^5.0.0"
+  }
+}

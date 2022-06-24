@@ -1,0 +1,5 @@
+"What is 1+1":"2"
+"What is 1+2":"3"
+"What is 2+1":"3"
+"What is nothing?":"Nothing"
+"Is this a good quiz?":"Yes;No"
