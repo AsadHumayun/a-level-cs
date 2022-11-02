@@ -30,7 +30,7 @@ def isHarshad(number: int) -> int or bool:
         return False
 
 # User's nth harshard number
-target = int(input('enter ur nth number, mf: '))
+target = int(input('enter ur nth number pls: '))
 
 calcs = 0
 harshards = []
