@@ -2,7 +2,7 @@
 
 '''
     Checks wether or not a float instance is an integer
-    
+
     Returns:
         bool: True if the float instance is an integer, False otherwise
 '''
